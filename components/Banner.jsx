@@ -24,10 +24,6 @@ export const Banner = () => {
         </p>
         <p>Descontos especiais para programadores</p>
       </section>
-      <footer className="absolute right-0 bottom-0 p-6 lg:p-32">
-        <p className="font-bold mb-1">Mário Menezes</p>
-        <p>Recode Pro 2021</p>
-      </footer>
     </main>
   );
 };
