@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "autoprefixer": "^10.2.4",
+    "axios": "^0.21.1",
+    "mongodb": "^3.6.4",
     "next": "10.0.6",
     "postcss": "^8.2.6",
     "postcss-cli": "^8.3.1",
